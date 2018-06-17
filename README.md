@@ -1,6 +1,8 @@
-"# GlobalHookKeys" 
+"# GlobalHookKeys".
+
 Made in Visual Studio 2017 C#.
 Needs Windows.System
+
 How to use:
 
 Make new class globalHookKeys - globalHookKeys key = new globalHookKeys();
