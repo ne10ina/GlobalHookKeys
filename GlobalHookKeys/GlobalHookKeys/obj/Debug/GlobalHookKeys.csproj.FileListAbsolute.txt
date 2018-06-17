@@ -1,0 +1,10 @@
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\obj\Debug\GlobalHookKeys.csprojAssemblyReference.cache
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\obj\Debug\GlobalHookKeys.Form1.resources
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\obj\Debug\GlobalHookKeys.Properties.Resources.resources
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\obj\Debug\GlobalHookKeys.csproj.GenerateResource.cache
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\obj\Debug\GlobalHookKeys.csproj.CoreCompileInputs.cache
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\bin\Debug\GlobalHookKeys.exe.config
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\bin\Debug\GlobalHookKeys.exe
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\bin\Debug\GlobalHookKeys.pdb
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\obj\Debug\GlobalHookKeys.exe
+C:\Users\10in\source\repos\GlobalHookKeys\GlobalHookKeys\obj\Debug\GlobalHookKeys.pdb
