@@ -10,7 +10,7 @@ Then add a key to hook - key.HookedKeys.Add(Key.*key*);
 Make event - key.KeyUp += new KeyEventHandler(key_KeyUp);
              key.KKeyDown += new KeyEventHandler(key_KeyDown);
              
-And finaly create a function
+And finally create a function
 
 void key_KeyUp(object sender, KeyEventArgs e)
 {
